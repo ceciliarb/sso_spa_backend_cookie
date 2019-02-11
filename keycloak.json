@@ -1,0 +1,6 @@
+{
+    "authRealm": "teste_cecilia",
+    "authUrl": "http://keycloak.qa.pbh/auth",
+    "authClientId": "teste_vuejs",
+    "logoutRedirectUri": "http://localhost:7000"
+}
